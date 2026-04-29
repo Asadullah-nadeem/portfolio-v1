@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Database, Server, Layout, Tool, Code2, Workflow } from 'lucide-react';
+import { Database, Server, Layout, Wrench, Code2, Workflow } from 'lucide-react';
 
 const skillGroups = [
   {

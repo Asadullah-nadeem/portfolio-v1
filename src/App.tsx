@@ -11,7 +11,7 @@ import { Footer } from './components/sections/Footer';
 function App() {
   return (
     <SmoothScroll>
-      <div className="relative selection:bg-accent/30">
+      <div className="relative selection:bg-accent/30 bg-background min-h-screen">
         <ThreeBackground />
         
         <nav className="fixed top-0 left-0 right-0 z-50 flex justify-between items-center px-6 lg:px-24 py-8 pointer-events-none">
